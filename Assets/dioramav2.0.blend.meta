@@ -77,8 +77,13 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: TilesJoined
+    second: {fileID: 2100000, guid: c7d0f64bd2141c04bb7d8cf10ae2f462, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Water
-    second: {fileID: 2100000, guid: 6f8e2c636f5610d40ae5415456611ddf, type: 2}
+    second: {fileID: 2100000, guid: b42738c65624a964c90078c76f52200b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -94,6 +99,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Wood.Door
     second: {fileID: 2100000, guid: 13364fb68053463499a16448c2d37d71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood.Notex
+    second: {fileID: 2100000, guid: f220809792363a644ac9c59f37e5544d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
