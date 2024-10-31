@@ -12,6 +12,16 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Chimney
+    second: {fileID: 2100000, guid: 68625682570369a419274b367c00ecee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chimney inner
+    second: {fileID: 2100000, guid: 5d656d6a3e86ff744966c90e4b6b3433, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: DarkerStone
     second: {fileID: 2100000, guid: 636f6014a84212e41ae5d28e044df737, type: 2}
   - first:
@@ -82,6 +92,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Trunk
+    second: {fileID: 2100000, guid: d5fb5f10e7a90344992dfa30fd89d1af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Water
     second: {fileID: 2100000, guid: b42738c65624a964c90078c76f52200b, type: 2}
   - first:
@@ -109,6 +124,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: metal
     second: {fileID: 2100000, guid: 8b9ca8875851de040872c14861f13b93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: treeLeaves
+    second: {fileID: 2100000, guid: dba54a654e36e6e44b639b67dc149c34, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
